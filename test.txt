@@ -1,8 +1,6 @@
 first
-third
 
 
->>>>>>> parent of c26f3d6... second
 
 
 
